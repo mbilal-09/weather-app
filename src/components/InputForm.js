@@ -21,7 +21,7 @@ function InputForm() {
     <div className="mb-4">
       <Select
         showSearch
-        placeholder="Select a person"
+        placeholder="Select a city"
         optionFilterProp="children"
         onChange={onChange}
         filterOption={filterOption}
